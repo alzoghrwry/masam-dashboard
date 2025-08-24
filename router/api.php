@@ -1,7 +1,7 @@
 <?php
 use App\Core\Router;
 
- se App\Controllers\NewsController;
+ use App\Controllers\NewsController;
 use App\Controllers\StoriesController;
 
 use App\Controllers\UserController;

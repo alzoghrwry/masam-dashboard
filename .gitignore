@@ -1,0 +1,24 @@
+
+# ملفات البيئة
+.env
+
+
+# مجلدات النظام المؤقت
+/vendor/
+
+storage/cache/
+storage/logs/
+
+# ملفات Composer
+composer.lock
+composer.json
+
+# ملفات الإعدادات المحلية
+.idea/
+.vscode/
+
+# ملفات النظام من XAMPP
+*.log
+*.sql
+
+
